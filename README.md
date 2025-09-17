@@ -1,4 +1,4 @@
-# STOP-Tespit-Algoritmas-
+# STOP-Tespit-Algoritmasi-
 “STOP” trafik işaretindeki kırmızı rengin tespit edilmesi ile işaretin tespiti
 
  Kodum kırmızı rengi tespit ederek görseldeki stop trafik işaretini yakalamyı hedeflemektedir.
